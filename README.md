@@ -8,7 +8,7 @@
 
 ## Frontend framework/libraries
 - Bootstrap
-# Choose one
+### Choose one
 - ReactJs
 - VueJs
 - Angular
